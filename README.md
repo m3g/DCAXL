@@ -1,5 +1,5 @@
 # DCAXL
-The script provided herein can be used to generate structure-based models (SBMs) from interaction data obtained from coevolution analysis and chemical cross-linking/SM and run protein folding predictions.
+The script provided herein (sbmbuild.py) can be used to generate structure-based models (SBMs) from interaction data obtained from coevolution analysis and chemical cross-linking/SM and run protein folding predictions.
 
 The following input data should be provided:
 
