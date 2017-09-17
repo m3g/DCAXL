@@ -28,7 +28,7 @@ Finally, an initial 3D model and a topology can be generated using the following
   
         python sbmbuild.py sequence_SS coevolution_list crosslink_list
 
-Input/output examples are found herein (ZIP files). 
+Input/output examples are found herein (.TAR.GZ files). 
 Fold predictions can be carried in GROMACS/gaussian simulations (http://smog-server.org/extension/gromacs-4.5.4_sbm1.0.tar.gz) using the generated .gro and .top files. A example GROMACS parameter file for an annealing protocol based in this proposed methodology is also provided and can be used for any system of study (sbm_calpha_SA_200to1_20ns.mdp).
 
 Further assistance can be found at: rikchicfb@gmail.com
